@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/school-portal/static/css/main.f25a9fae.chunk.css",
+    "main.js": "/school-portal/static/js/main.da41535d.chunk.js",
+    "main.js.map": "/school-portal/static/js/main.da41535d.chunk.js.map",
+    "runtime-main.js": "/school-portal/static/js/runtime-main.498904fd.js",
+    "runtime-main.js.map": "/school-portal/static/js/runtime-main.498904fd.js.map",
+    "static/js/2.20d6f8f5.chunk.js": "/school-portal/static/js/2.20d6f8f5.chunk.js",
+    "static/js/2.20d6f8f5.chunk.js.map": "/school-portal/static/js/2.20d6f8f5.chunk.js.map",
+    "index.html": "/school-portal/index.html",
+    "precache-manifest.c7a9265142305aa7c530f1bc936de15d.js": "/school-portal/precache-manifest.c7a9265142305aa7c530f1bc936de15d.js",
+    "service-worker.js": "/school-portal/service-worker.js",
+    "static/css/main.f25a9fae.chunk.css.map": "/school-portal/static/css/main.f25a9fae.chunk.css.map",
+    "static/js/2.20d6f8f5.chunk.js.LICENSE.txt": "/school-portal/static/js/2.20d6f8f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.498904fd.js",
+    "static/js/2.20d6f8f5.chunk.js",
+    "static/css/main.f25a9fae.chunk.css",
+    "static/js/main.da41535d.chunk.js"
+  ]
+}
